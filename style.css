@@ -20,7 +20,7 @@ body{
     margin-top: 25px;
     margin-left: 25px;
 }
-span{
+#scritta-t{
     color: rgb(0, 0, 56);
     font-size: 70px;
     position: relative;
@@ -66,4 +66,18 @@ span{
     background-color: white;
     border: 2px solid rgb(226, 225, 225);
     color: rgb(226, 225, 225);
+}
+.triangolo{
+    width: 0;
+height: 0;
+line-height: ;
+border-top: 10px solid rgb(69, 69, 69);
+border-left: 10px solid transparent;
+border-right: 10px solid transparent;
+margin-left: 70px;
+margin-top: 40px;
+display: inline-block;
+}
+.scritte-corpo{
+    font-size: 30px;
 }
